@@ -1,0 +1,27 @@
+This dashboard presents a comprehensive overview of sales and profit performance from January 2014 through late 2017, breaking down the data by time, region, and product category.
+
+Overall Performance:
+
+Total Sales: $2.30 million
+
+Total Profit: $286.40K
+
+Key Insights:
+
+Sales Trend: The Sum of Sales by Month-Year line chart shows that sales are highly cyclical and volatile. There is a noticeable upward trend over the years, with sales reaching their peak in late 2017.
+
+Performance by Region:
+
+The West region is the top performer, generating the highest sales and the most profit ($108.42K, which is 37.86% of the total profit).
+
+The East region follows as the second-highest in both sales and profit.
+
+Interestingly, while the South region has the lowest sales, the Central region is the least profitable, suggesting potential issues with profit margins in that area.
+
+Performance by Category:
+
+Sales are distributed fairly evenly across the three product categories.
+
+Technology is the leading category with $836.15K in sales (36.4%).
+
+Furniture and Office Supplies follow closely with 32.3% and 31.3% of total sales, respectively.
